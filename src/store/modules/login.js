@@ -1,7 +1,7 @@
 import axios from "@/plugins/axios";
 import mutations from "@/store/mutations";
 
-const { REG_USERS, USER_LOGINNED, LOGGED_EMAILS } = mutations;
+const { REG_USERS, USER_LOGINNED } = mutations;
 
 const getUser = ({ data }) => {
   const regUsers = data;
@@ -32,15 +32,6 @@ const login = {
     },
   },
   actions: {
-    // async getLoggedUsers(context) {
-    //   try {
-    //     const response = await axios.get("/userLogined");
-    //     const userResponse = loggedUsersToState(response);
-    //     context.commit(LOGGED_EMAILS, userResponse);
-    //   } catch (err) {
-    //     console.log(err);
-    //   }
-    // },
     async saveUser(context, payload) {
       try {
         context.commit(REG_USERS, payload);

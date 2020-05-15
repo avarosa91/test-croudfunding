@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     userLogin() {
-      console.log(this.user);
+      this.$router.push({ path: "/" });
     },
   },
 };
