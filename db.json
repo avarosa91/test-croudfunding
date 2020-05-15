@@ -1,0 +1,1293 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 2,
+      "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+      "name": "Виктор",
+      "age": 32,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 3,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 4,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 5,
+      "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+      "name": "Виктор",
+      "age": 32,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 6,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 7,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 8,
+      "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+      "name": "Виктор",
+      "age": 32,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 9,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "id": 10,
+      "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+      "name": "Анастасия",
+      "age": 45,
+      "region": "Москва",
+      "position": "Наставник",
+      "about": "Краткая информация о себе"
+    },
+    {
+      "name": "att",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "22",
+      "region": "str",
+      "about": "sssdfsdfdsfdsf",
+      "position": "Участник",
+      "id": 30
+    },
+    {
+      "name": "masha",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "22",
+      "region": "sdfsdfsd",
+      "about": "werewrewrewre",
+      "position": "Участник",
+      "id": 31
+    },
+    {
+      "name": "anna",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "33",
+      "region": "sdfdsf",
+      "about": "sjifidfd",
+      "position": "Участник",
+      "id": 32
+    },
+    {
+      "name": "Heather",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "22",
+      "region": "lkjhslkdfh",
+      "about": "knsdlfkdsjf",
+      "position": "Участник",
+      "id": 33
+    },
+    {
+      "name": "asya",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "42",
+      "region": "ejh",
+      "about": "kjhewkr",
+      "position": "Участник",
+      "id": 34
+    },
+    {
+      "name": "Anna",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "33",
+      "region": "ksjfld",
+      "about": "skdhfjhf",
+      "position": "Участник",
+      "id": 35
+    },
+    {
+      "name": "teresa",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "22",
+      "region": "dfgndfg",
+      "about": "wessjf",
+      "position": "Участник",
+      "id": 36
+    },
+    {
+      "name": "sdfd",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "12",
+      "region": "sfsdfds",
+      "about": "sdklfsdf",
+      "position": "Тренер",
+      "id": 37
+    },
+    {
+      "name": "reetret",
+      "email": "test@test.test",
+      "password": "123456",
+      "age": "22",
+      "region": "ssfdf",
+      "about": "sdfsf",
+      "position": "Участник",
+      "id": 38
+    }
+  ],
+  "projects": [
+    {
+      "id": 11,
+      "title": "Проект краудфандинга 1",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 12,
+      "title": "Проект краудфандинга 2",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 13,
+      "title": "Проект краудфандинга 3",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 14,
+      "title": "Проект краудфандинга 4",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 15,
+      "title": "Проект краудфандинга 5",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 16,
+      "title": "Проект краудфандинга 6",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 17,
+      "title": "Проект краудфандинга 7",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 18,
+      "title": "Проект краудфандинга 8",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 19,
+      "title": "Проект краудфандинга 9",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    },
+    {
+      "id": 20,
+      "title": "Проект краудфандинга 10",
+      "head": "Анастасия Пригожина",
+      "fundsAmount": 20000,
+      "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+      "info": "Краткая информация о проекте"
+    }
+  ],
+  "userLogined": [
+    {
+      "email": "test@test.test",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "test@test.test",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "getters": {
+        "regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "userMailsWithPass": null
+      },
+      "state": {
+        "regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "userMailsWithPass": null
+      },
+      "rootGetters": {
+        "participants/users": [
+          {
+            "id": 1,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 2,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 3,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 4,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 5,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 6,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 7,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 8,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 9,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 10,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "name": "att",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "str",
+            "about": "sssdfsdfdsfdsf",
+            "position": "Участник",
+            "id": 30
+          },
+          {
+            "name": "masha",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "sdfsdfsd",
+            "about": "werewrewrewre",
+            "position": "Участник",
+            "id": 31
+          },
+          {
+            "name": "anna",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "33",
+            "region": "sdfdsf",
+            "about": "sjifidfd",
+            "position": "Участник",
+            "id": 32
+          },
+          {
+            "name": "Heather",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "lkjhslkdfh",
+            "about": "knsdlfkdsjf",
+            "position": "Участник",
+            "id": 33
+          },
+          {
+            "name": "asya",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "42",
+            "region": "ejh",
+            "about": "kjhewkr",
+            "position": "Участник",
+            "id": 34
+          }
+        ],
+        "projects/projects": [
+          {
+            "id": 11,
+            "title": "Проект краудфандинга 1",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 12,
+            "title": "Проект краудфандинга 2",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 13,
+            "title": "Проект краудфандинга 3",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 14,
+            "title": "Проект краудфандинга 4",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 15,
+            "title": "Проект краудфандинга 5",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 16,
+            "title": "Проект краудфандинга 6",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 17,
+            "title": "Проект краудфандинга 7",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 18,
+            "title": "Проект краудфандинга 8",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 19,
+            "title": "Проект краудфандинга 9",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 20,
+            "title": "Проект краудфандинга 10",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          }
+        ],
+        "login/regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "login/userMailsWithPass": null
+      },
+      "rootState": {
+        "participants": {
+          "users": [
+            {
+              "id": 1,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 2,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 3,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 4,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 5,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 6,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 7,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 8,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 9,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 10,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "name": "att",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "str",
+              "about": "sssdfsdfdsfdsf",
+              "position": "Участник",
+              "id": 30
+            },
+            {
+              "name": "masha",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "sdfsdfsd",
+              "about": "werewrewrewre",
+              "position": "Участник",
+              "id": 31
+            },
+            {
+              "name": "anna",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "33",
+              "region": "sdfdsf",
+              "about": "sjifidfd",
+              "position": "Участник",
+              "id": 32
+            },
+            {
+              "name": "Heather",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "lkjhslkdfh",
+              "about": "knsdlfkdsjf",
+              "position": "Участник",
+              "id": 33
+            },
+            {
+              "name": "asya",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "42",
+              "region": "ejh",
+              "about": "kjhewkr",
+              "position": "Участник",
+              "id": 34
+            }
+          ]
+        },
+        "projects": {
+          "projects": [
+            {
+              "id": 11,
+              "title": "Проект краудфандинга 1",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 12,
+              "title": "Проект краудфандинга 2",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 13,
+              "title": "Проект краудфандинга 3",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 14,
+              "title": "Проект краудфандинга 4",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 15,
+              "title": "Проект краудфандинга 5",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 16,
+              "title": "Проект краудфандинга 6",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 17,
+              "title": "Проект краудфандинга 7",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 18,
+              "title": "Проект краудфандинга 8",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 19,
+              "title": "Проект краудфандинга 9",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 20,
+              "title": "Проект краудфандинга 10",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            }
+          ]
+        },
+        "login": {
+          "regUsers": {
+            "name": "Anna",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "33",
+            "region": "ksjfld",
+            "about": "skdhfjhf",
+            "position": "Участник"
+          },
+          "userMailsWithPass": null
+        }
+      },
+      "id": 4
+    },
+    {
+      "getters": {
+        "regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "userMailsWithPass": null
+      },
+      "state": {
+        "regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "userMailsWithPass": null
+      },
+      "rootGetters": {
+        "participants/users": [
+          {
+            "id": 1,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 2,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 3,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 4,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 5,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 6,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 7,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 8,
+            "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+            "name": "Виктор",
+            "age": 32,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 9,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "id": 10,
+            "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+            "name": "Анастасия",
+            "age": 45,
+            "region": "Москва",
+            "position": "Наставник",
+            "about": "Краткая информация о себе"
+          },
+          {
+            "name": "att",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "str",
+            "about": "sssdfsdfdsfdsf",
+            "position": "Участник",
+            "id": 30
+          },
+          {
+            "name": "masha",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "sdfsdfsd",
+            "about": "werewrewrewre",
+            "position": "Участник",
+            "id": 31
+          },
+          {
+            "name": "anna",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "33",
+            "region": "sdfdsf",
+            "about": "sjifidfd",
+            "position": "Участник",
+            "id": 32
+          },
+          {
+            "name": "Heather",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "22",
+            "region": "lkjhslkdfh",
+            "about": "knsdlfkdsjf",
+            "position": "Участник",
+            "id": 33
+          },
+          {
+            "name": "asya",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "42",
+            "region": "ejh",
+            "about": "kjhewkr",
+            "position": "Участник",
+            "id": 34
+          }
+        ],
+        "projects/projects": [
+          {
+            "id": 11,
+            "title": "Проект краудфандинга 1",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 12,
+            "title": "Проект краудфандинга 2",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 13,
+            "title": "Проект краудфандинга 3",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 14,
+            "title": "Проект краудфандинга 4",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 15,
+            "title": "Проект краудфандинга 5",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 16,
+            "title": "Проект краудфандинга 6",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 17,
+            "title": "Проект краудфандинга 7",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 18,
+            "title": "Проект краудфандинга 8",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 19,
+            "title": "Проект краудфандинга 9",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          },
+          {
+            "id": 20,
+            "title": "Проект краудфандинга 10",
+            "head": "Анастасия Пригожина",
+            "fundsAmount": 20000,
+            "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+            "info": "Краткая информация о проекте"
+          }
+        ],
+        "login/regUsers": {
+          "name": "Anna",
+          "email": "test@test.test",
+          "password": "123456",
+          "age": "33",
+          "region": "ksjfld",
+          "about": "skdhfjhf",
+          "position": "Участник"
+        },
+        "login/userMailsWithPass": null
+      },
+      "rootState": {
+        "participants": {
+          "users": [
+            {
+              "id": 1,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 2,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 3,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 4,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 5,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 6,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 7,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 8,
+              "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkvYZHmSc_KkviRUYP8Ao-SSsmbCwG0X5b-5HWgAHgXeQ1oqU&s",
+              "name": "Виктор",
+              "age": 32,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 9,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "id": 10,
+              "photoURL": "https://live.staticflickr.com/4727/39101514412_a1a9841548_z.jpg",
+              "name": "Анастасия",
+              "age": 45,
+              "region": "Москва",
+              "position": "Наставник",
+              "about": "Краткая информация о себе"
+            },
+            {
+              "name": "att",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "str",
+              "about": "sssdfsdfdsfdsf",
+              "position": "Участник",
+              "id": 30
+            },
+            {
+              "name": "masha",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "sdfsdfsd",
+              "about": "werewrewrewre",
+              "position": "Участник",
+              "id": 31
+            },
+            {
+              "name": "anna",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "33",
+              "region": "sdfdsf",
+              "about": "sjifidfd",
+              "position": "Участник",
+              "id": 32
+            },
+            {
+              "name": "Heather",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "22",
+              "region": "lkjhslkdfh",
+              "about": "knsdlfkdsjf",
+              "position": "Участник",
+              "id": 33
+            },
+            {
+              "name": "asya",
+              "email": "test@test.test",
+              "password": "123456",
+              "age": "42",
+              "region": "ejh",
+              "about": "kjhewkr",
+              "position": "Участник",
+              "id": 34
+            }
+          ]
+        },
+        "projects": {
+          "projects": [
+            {
+              "id": 11,
+              "title": "Проект краудфандинга 1",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 12,
+              "title": "Проект краудфандинга 2",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 13,
+              "title": "Проект краудфандинга 3",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 14,
+              "title": "Проект краудфандинга 4",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 15,
+              "title": "Проект краудфандинга 5",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 16,
+              "title": "Проект краудфандинга 6",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 17,
+              "title": "Проект краудфандинга 7",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 18,
+              "title": "Проект краудфандинга 8",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 19,
+              "title": "Проект краудфандинга 9",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            },
+            {
+              "id": 20,
+              "title": "Проект краудфандинга 10",
+              "head": "Анастасия Пригожина",
+              "fundsAmount": 20000,
+              "imageUrl": "https://eitrawmaterials.eu/wp-content/uploads/2019/10/shutterstock_773293384-3.jpg",
+              "info": "Краткая информация о проекте"
+            }
+          ]
+        },
+        "login": {
+          "regUsers": {
+            "name": "Anna",
+            "email": "test@test.test",
+            "password": "123456",
+            "age": "33",
+            "region": "ksjfld",
+            "about": "skdhfjhf",
+            "position": "Участник"
+          },
+          "userMailsWithPass": null
+        }
+      },
+      "id": 5
+    },
+    {
+      "email": "test@test.test",
+      "password": "123456",
+      "id": 6
+    }
+  ]
+}
